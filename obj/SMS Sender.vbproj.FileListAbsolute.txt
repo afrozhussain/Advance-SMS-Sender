@@ -1,0 +1,132 @@
+D:\Development\SMS Sender\SMS Sender\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\SMS Sender\SMS Sender\obj\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\SMS Sender\obj\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS_Sender.Form1.resources
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS_Sender.Resources.resources
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+D:\Development\SMS Sender\SMS Sender\bin\Debug\SMS Sender.exe
+D:\Development\SMS Sender\SMS Sender\bin\Debug\SMS Sender.pdb
+D:\Development\SMS Sender\SMS Sender\bin\Debug\SMS Sender.xml
+D:\Development\SMS Sender\SMS Sender\bin\Debug\IntelliSMSDotNet.dll
+D:\Development\SMS Sender\SMS Sender\bin\Debug\IntelliSMSDotNet.xml
+D:\Development\SMS Sender\SMS Sender\bin\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\SMS Sender\bin\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS Sender.exe
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS Sender.xml
+D:\Development\SMS Sender\SMS Sender\obj\Debug\SMS Sender.pdb
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS Sender.exe
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS Sender.xml
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS Sender.pdb
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\bin\Debug\SMS Sender.exe
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\bin\Debug\SMS Sender.pdb
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\bin\Debug\SMS Sender.xml
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\bin\Debug\IntelliSMSDotNet.xml
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\bin\Debug\Interop.KYLIXSMSLib.dll
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\bin\Debug\AxInterop.KYLIXSMSLib.dll
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\Interop.KYLIXSMSLib.dll
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\AxInterop.KYLIXSMSLib.dll
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS_Sender.Form1.resources
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS_Sender.Resources.resources
+C:\Users\Administrator\Desktop\SMS Sender\SMS Sender\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+D:\Development\SMS Sender\obj\Debug\SMS Sender.exe
+D:\Development\SMS Sender\obj\Debug\SMS Sender.xml
+D:\Development\SMS Sender\obj\Debug\SMS Sender.pdb
+D:\Development\SMS Sender\bin\Debug\SMS Sender.exe
+D:\Development\SMS Sender\bin\Debug\SMS Sender.pdb
+D:\Development\SMS Sender\bin\Debug\SMS Sender.xml
+D:\Development\SMS Sender\bin\Debug\IntelliSMSDotNet.xml
+D:\Development\SMS Sender\bin\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\bin\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\SMS Sender\obj\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\obj\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+D:\Development\SMS Sender\obj\Debug\SMS_Sender.Form1.resources
+D:\Development\SMS Sender\obj\Debug\SMS_Sender.Resources.resources
+D:\Development\SMS Sender\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+D:\Development\SMS Sender\bin\Debug\mCoreLib.dll
+D:\Development\SMS Sender\bin\Debug\mCoreLib.xml
+D:\Development\SMS Sender - Advanced\bin\Debug\SMS Sender.exe
+D:\Development\SMS Sender - Advanced\bin\Debug\SMS Sender.pdb
+D:\Development\SMS Sender - Advanced\bin\Debug\SMS Sender.xml
+D:\Development\SMS Sender - Advanced\bin\Debug\mCoreLib.dll
+D:\Development\SMS Sender - Advanced\bin\Debug\mCoreLib.xml
+D:\Development\SMS Sender - Advanced\bin\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender - Advanced\bin\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender - Advanced\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\SMS Sender - Advanced\obj\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender - Advanced\obj\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS_Sender.Form1.resources
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS_Sender.Resources.resources
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS Sender.exe
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS Sender.xml
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS Sender.pdb
+D:\Development\SMS Sender - Advanced\obj\Debug\SMS_Sender.frmImportCSV.resources
+D:\Development\SMS Sender - Advanced\bin\Debug\System.Data.SQLite.dll
+D:\Development\SMS Sender - Advanced\bin\Debug\System.Data.SQLite.pdb
+D:\Development\SMS Sender Advanced\bin\Debug\SMS Sender.exe
+D:\Development\SMS Sender Advanced\bin\Debug\SMS Sender.pdb
+D:\Development\SMS Sender Advanced\bin\Debug\SMS Sender.xml
+D:\Development\SMS Sender Advanced\bin\Debug\mCoreLib.dll
+D:\Development\SMS Sender Advanced\bin\Debug\System.Data.SQLite.dll
+D:\Development\SMS Sender Advanced\bin\Debug\System.Data.SQLite.pdb
+D:\Development\SMS Sender Advanced\bin\Debug\mCoreLib.xml
+D:\Development\SMS Sender Advanced\bin\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender Advanced\bin\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender Advanced\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\SMS Sender Advanced\obj\Debug\Interop.KYLIXSMSLib.dll
+D:\Development\SMS Sender Advanced\obj\Debug\AxInterop.KYLIXSMSLib.dll
+D:\Development\SMS Sender Advanced\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+D:\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.Form1.resources
+D:\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmImportCSV.resources
+D:\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.Resources.resources
+D:\Development\SMS Sender Advanced\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+D:\Development\SMS Sender Advanced\obj\Debug\SMS Sender.exe
+D:\Development\SMS Sender Advanced\obj\Debug\SMS Sender.xml
+D:\Development\SMS Sender Advanced\obj\Debug\SMS Sender.pdb
+D:\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmAddNewContact.resources
+D:\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmSetStatus.resources
+D:\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmSendMessage.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\bin\Debug\SMS Sender.exe
+F:\Old Laptop Data\Development\SMS Sender Advanced\bin\Debug\SMS Sender.pdb
+F:\Old Laptop Data\Development\SMS Sender Advanced\bin\Debug\SMS Sender.xml
+F:\Old Laptop Data\Development\SMS Sender Advanced\bin\Debug\Interop.KYLIXSMSLib.dll
+F:\Old Laptop Data\Development\SMS Sender Advanced\bin\Debug\AxInterop.KYLIXSMSLib.dll
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\ResolveAssemblyReference.cache
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\Interop.KYLIXSMSLib.dll
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\AxInterop.KYLIXSMSLib.dll
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmAddNewContact.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.Form1.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmSendMessage.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmSetStatus.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.frmImportCSV.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS_Sender.Resources.resources
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS Sender.exe
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS Sender.xml
+F:\Old Laptop Data\Development\SMS Sender Advanced\obj\Debug\SMS Sender.pdb
+F:\SMS Sender Advanced\bin\Debug\SMS Sender.exe
+F:\SMS Sender Advanced\bin\Debug\SMS Sender.pdb
+F:\SMS Sender Advanced\bin\Debug\SMS Sender.xml
+F:\SMS Sender Advanced\obj\Debug\ResolveAssemblyReference.cache
+F:\SMS Sender Advanced\obj\Debug\SMS_Sender.frmAddNewContact.resources
+F:\SMS Sender Advanced\obj\Debug\SMS_Sender.Form1.resources
+F:\SMS Sender Advanced\obj\Debug\SMS_Sender.frmSendMessage.resources
+F:\SMS Sender Advanced\obj\Debug\SMS_Sender.frmSetStatus.resources
+F:\SMS Sender Advanced\obj\Debug\SMS_Sender.frmImportCSV.resources
+F:\SMS Sender Advanced\obj\Debug\SMS_Sender.Resources.resources
+F:\SMS Sender Advanced\obj\Debug\SMS Sender.vbproj.GenerateResource.Cache
+F:\SMS Sender Advanced\obj\Debug\SMS Sender.exe
+F:\SMS Sender Advanced\obj\Debug\SMS Sender.xml
+F:\SMS Sender Advanced\obj\Debug\SMS Sender.pdb
+F:\SMS Sender Advanced\obj\Debug\Interop.KYLIXSMSLib.dll
+F:\SMS Sender Advanced\obj\Debug\SMS Sender.vbproj.ResolveComReference.cache
+F:\SMS Sender Advanced\bin\Debug\Interop.KYLIXSMSLib.dll
+F:\SMS Sender Advanced\bin\Debug\AxInterop.KYLIXSMSLib.dll
+F:\SMS Sender Advanced\obj\Debug\AxInterop.KYLIXSMSLib.dll
